@@ -1,0 +1,11 @@
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\bin\Debug\netcoreapp3.1\Tareaplus.exe
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\bin\Debug\netcoreapp3.1\Tareaplus.deps.json
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\bin\Debug\netcoreapp3.1\Tareaplus.runtimeconfig.json
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\bin\Debug\netcoreapp3.1\Tareaplus.runtimeconfig.dev.json
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\bin\Debug\netcoreapp3.1\Tareaplus.dll
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\bin\Debug\netcoreapp3.1\Tareaplus.pdb
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\obj\Debug\netcoreapp3.1\Tareaplus.csprojAssemblyReference.cache
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\obj\Debug\netcoreapp3.1\Tareaplus.AssemblyInfoInputs.cache
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\obj\Debug\netcoreapp3.1\Tareaplus.AssemblyInfo.cs
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\obj\Debug\netcoreapp3.1\Tareaplus.dll
+C:\Users\jannabel\source\repos\Tareaplus\Tareaplus\obj\Debug\netcoreapp3.1\Tareaplus.pdb
